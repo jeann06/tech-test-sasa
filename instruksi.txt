@@ -1,0 +1,5 @@
+1. Buka XAMPP Control Panel
+2. Klik tombol 'start' untuk 'Apache' dan 'MySQL'
+3. Masukkan folder 'Sarirasa' ke dalam folder 'htdocs' yang terletak di direktori tempat XAMPP diinstal
+    biasanya berada di 'C:\xampp\htdocs'
+4. Buka browser dan paste link berikut: 'http://localhost/sarirasa/index.php'
